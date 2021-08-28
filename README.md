@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com/tikeyike/3-column-preview-card-component-main](https://github.com/tikeyike/3-column-preview-card-component-main)
+- Live Site URL: [tikeyike.github.io/3-column-preview-card-component-main/index](https://tikeyike.github.io/3-column-preview-card-component-main/index)
 
 ## My process
 
